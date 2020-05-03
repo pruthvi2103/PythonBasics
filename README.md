@@ -1,5 +1,16 @@
 # Python
-## This is my ultimate Reference directory for python, it includes all the Data Structures, Algorithms and other things I know about the language which may come in handy to any Python Developer! 
+#### This is my ultimate Reference directory for python, it includes all the Data Structures, Algorithms and other things I know about the language which may come in handy to any Python Developer! 
+
+##### Contents:
+
+###### Data Structures
+
+###### Algorithms
+
+###### REGEX
+
+
+
 
 Feel free to fork and do contribute if you are intrested.
 
